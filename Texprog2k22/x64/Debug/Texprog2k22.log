@@ -1,0 +1,8 @@
+﻿  check.cpp
+  container.cpp
+  main.cpp
+  note.cpp
+C:\Users\tolik\source\repos\Texprog2k22\note.cpp(33,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  sentence.cpp
+  Создание кода...
+  Texprog2k22.vcxproj -> C:\Users\tolik\source\repos\Texprog2k22\x64\Debug\Texprog2k22.exe
