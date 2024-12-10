@@ -1,5 +1,5 @@
 #include "check.h"
-
+//проверка
 int check_input() {
     int val;
     while (true) {
