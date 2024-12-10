@@ -27,7 +27,7 @@ int check_date_day() {
         }
     }
 }
-
+//проверка
 int check_date_month() {
     int val;
     while (true) {
